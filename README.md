@@ -1,5 +1,8 @@
 # Your Day - Flutter Application
 
+> [!NOTE]
+> **Status**: This project is currently **under process** (Work in Progress). Features and documentation are being actively updated.
+
 A premium, high-performance personal productivity and growth application built with Flutter. "Your Day" features a sophisticated monochrome design system focused on minimizing distractions while maximizing academic and personal output.
 
 ## 🌟 Key Features
@@ -70,11 +73,6 @@ your_day_app/
     flutter build apk --debug
     ```
 
-## 📸 Screenshots
-
-![Dashboard](screenshots/dashboard.png)
-![Tasks](screenshots/tasks.png)
-![Growth](screenshots/growth.png)
 
 ---
 *Created with ❤️ for Your-Day productivity.*
