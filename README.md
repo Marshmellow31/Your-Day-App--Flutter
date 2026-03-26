@@ -29,13 +29,14 @@ The application is structured into six core modules, all accessible through a un
 ## 📂 Project Structure
 
 ```text
-lib/
-├── main.dart             # Application entry point
-├── models/               # Data models
-├── screens/              # All 6 core application screens
-├── theme/                # Global AppTheme and AppColors configuration
-├── utils/                # Constants and helper utilities
-└── widgets/              # Reusable UI components (CustomCard, StatTile, etc.)
+your_day_app/
+├── lib/
+│   ├── main.dart             # Application entry point
+│   ├── models/               # Data models
+│   ├── screens/              # All 6 core application screens
+│   ├── theme/                # Global AppTheme and AppColors configuration
+│   ├── utils/                # Constants and helper utilities
+│   └── widgets/              # Reusable UI components (CustomCard, StatTile, etc.)
 ```
 
 ## 🚀 Getting Started
@@ -71,9 +72,9 @@ lib/
 
 ## 📸 Screenshots
 
-![Dashboard](C:/Users/1080p/.gemini/antigravity/brain/e84fe658-a67d-4205-9628-06355e848418/dashboard_screen_1774531603564.png)
-![Tasks](C:/Users/1080p/.gemini/antigravity/brain/e84fe658-a67d-4205-9628-06355e848418/tasks_screen_1774531631098.png)
-![Growth](C:/Users/1080p/.gemini/antigravity/brain/e84fe658-a67d-4205-9628-06355e848418/growth_screen_1774531637394.png)
+![Dashboard](screenshots/dashboard.png)
+![Tasks](screenshots/tasks.png)
+![Growth](screenshots/growth.png)
 
 ---
 *Created with ❤️ for Your-Day productivity.*
